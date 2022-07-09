@@ -10,6 +10,7 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore"
   },
   "dependencies": {
+    "@metamask/detect-provider": "^1.2.0",
     "vue": "^3.2.37"
   },
   "devDependencies": {
